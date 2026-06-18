@@ -2,13 +2,14 @@
 
 Psychronic Battle Engine (Event-Driven Fixed with Projectiles and Actor Positioning)
 
-## What This Is
+## What It Does
 
-This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
+Psychronic Battle Engine (Event-Driven Fixed with Projectiles and Actor Positioning).
 
-## Plugin File
+## Compatibility
 
-- `PSYCHRONIC_BattleEngineMZ.js`
+- RPG Maker MZ
+- JavaScript plugin for `js/plugins/`
 
 ## Installation
 
@@ -20,11 +21,11 @@ This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
 
 This version was exported from the RPG Reactor Complex template source plugin folder.
 
-Current source version: 0
-
 ## Author
 
 Psychronic
+
+https://psychronic.itch.io
 
 ## License
 
