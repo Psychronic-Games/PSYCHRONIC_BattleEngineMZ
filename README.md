@@ -25,7 +25,7 @@ Psychronic Battle Engine (Event-Driven Fixed with Projectiles and Actor Position
 - stateOverlaySpeed: Animation speed multiplier for state overlays (poison, etc.). Lower = faster.
 - enableActorEscape: Add an Escape command to the actor command window during battle.
 - escapeCommandText: The text to display for the escape command.
-- enemyStateDisplay
+- enemyStateDisplay: How to display states on enemies: icons, animations, both, or none.
 - enemyStateIconOffsetX: X position offset for enemy state icons.
 - enemyStateIconOffsetY: Y position offset for enemy state icons.
 - enemyStateAnimOffsetX: X position offset for enemy state animations/overlays.
@@ -40,9 +40,6 @@ Psychronic Battle Engine (Event-Driven Fixed with Projectiles and Actor Position
 - mpHealColor: Color for MP recovery (hex code, e.g., #80b0ff for blue).
 - damagePopupOffsetX: X position offset for damage popups (relative to battler).
 - damagePopupOffsetY: Y position offset for damage popups (relative to battler, negative = above).
-- type
-- charsetSpeed: Frame speed for charset battlers. Only applies if Type is Charset.
-- Additional parameters are documented in the plugin header/help text.
 
 ## Installation
 
